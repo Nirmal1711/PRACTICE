@@ -1,2 +1,2 @@
 KALI LINUX COMMAND SYNTAXES.
-i receive mail of you updated.
+I GOT MAIL OF YOUR UPDATION.
