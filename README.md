@@ -7,3 +7,5 @@ cd command - to change directory
 ssh - to connect remote machine
 
 mkdir - to make directory
+
+ls - list all files 
